@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2557600 */
+  src: url('//at.alicdn.com/t/font_2557600_sa0e731d6j.woff2?t=1621396916249') format('woff2'),
+       url('//at.alicdn.com/t/font_2557600_sa0e731d6j.woff?t=1621396916249') format('woff'),
+       url('//at.alicdn.com/t/font_2557600_sa0e731d6j.ttf?t=1621396916249') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-GitHub:before {
+  content: "\ea0a";
+  font-size: 19px;
+}
+
+.icon-bilibili-line:before {
+  content: "\e75d";
+  color: #FF69B4;
+  font-size: 19px;
+}
+
+.icon-youtube:before {
+  content: "\e7b2";
+  color: #FF0000;
+  font-size: 19px;
+}
